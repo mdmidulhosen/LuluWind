@@ -8,6 +8,18 @@
 .right{
     text-align: right;
 }
+
+/* display content*/
+.inline-block{
+    display: inline-block;
+}
+.inline{
+    display: inline;
+}
+.block{
+    display: block;
+}
+
 /* text color  */
 .text-red{
     color: red!important;
